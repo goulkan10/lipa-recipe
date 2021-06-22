@@ -1,4 +1,4 @@
-baseURL = "https://lipa-recipe-2020.vercel.app/"
+baseURL = "https://lipa-recipe.vercel.app/"
 languageCode = "en-us"
 title = "lipa-recipe-2020"
 theme = "x"
@@ -45,7 +45,7 @@ sectionPagesMenu = "main"
 [menu]
   [[menu.nav]]
   name = "Home"
-  url = "https://lipa-recipe-2020.vercel.app/"
+  url = "https://lipa-recipe.vercel.app/"
   weight = 1
   [[menu.nav]]
   name = "Contact"
